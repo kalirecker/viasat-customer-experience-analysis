@@ -47,5 +47,5 @@ jupyter notebook notebooks/satisfaction_forecast.ipynb
 
 ## 📬 Contact
 
-Created by [Makayla (Kali) Recker]  
+Created by Makayla (Kali) Recker 
 For inquiries: [LinkedIn](https://www.linkedin.com/in/kalirecker/) | [reckerkali@gmail.com]
