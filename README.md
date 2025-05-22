@@ -16,7 +16,7 @@ Using Python, SQL, Tableau, and Excel, I explored how Wi-Fi dropouts, loyalty ti
 
 - Satisfaction declines sharply as Wi-Fi dropouts increase
 - Loyalty members rate the same performance more harshly than others
-- VPN usage leads to significantly lower streaming satisfaction
+- VPN usage does not impact satisfaction
 - Mobile app users report the highest complaint rate
 - March shows lowest satisfaction despite improved technical performance
 
