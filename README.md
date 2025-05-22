@@ -35,6 +35,7 @@ A regression model built in Python estimates a **1.2-point increase in satisfact
 - `satisfaction_forecast.ipynb` – Python notebook for modeling
 - `requirements.txt` – Python dependencies
 - `~$Viasat_Excel_Analysis_Workbook.xlsx` - Excel generated visuals
+- `Slide5&9Queries.sql`- SQL queries used 
 
 
 ## 🚀 How to Run
