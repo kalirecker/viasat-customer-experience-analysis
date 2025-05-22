@@ -24,7 +24,7 @@ Using Python, SQL, Tableau, and Excel, I explored how Wi-Fi dropouts, loyalty ti
 
 A regression model built in Python estimates a **1.2-point increase in satisfaction** for every 1 fewer Wi-Fi dropout.
 
-📁 `notebooks/satisfaction_forecast.ipynb`
+`satisfaction_forecast.ipynb`
 
 
 ## 📂 Files Included
