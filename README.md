@@ -26,19 +26,16 @@ A regression model built in Python estimates a **1.2-point increase in satisfact
 
 📁 `notebooks/satisfaction_forecast.ipynb`
 
-## 📊 Tableau Visuals
-
-All Tableau-generated insights are included in the `visuals/` folder, with screenshots and a packaged workbook if applicable.
-
-📁 [`tableau/viasat_dashboard.twbx`](tableau/viasat_dashboard.twbx) *(optional)*  
-📁 [`visuals/`](visuals/) – Contains charts for dropouts, trends, loyalty, and VPN impact
 
 ## 📂 Files Included
 
-- `final_presentation.pdf` – Full deck summarizing all findings
+- `Elevating Passenger Experience In-Flight Connectivity.pdf` – Full deck summarizing all findings
 - `Viasat_Tailored_Data.csv` – Sample (synthetic) dataset
+- `Viasat_Customer_Experience_Data.twbx` - Tableau packaged workbook
 - `satisfaction_forecast.ipynb` – Python notebook for modeling
 - `requirements.txt` – Python dependencies
+- `~$Viasat_Excel_Analysis_Workbook.xlsx` - Excel generated visuals
+
 
 ## 🚀 How to Run
 
